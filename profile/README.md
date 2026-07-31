@@ -4,7 +4,7 @@
 
   <h1 style="margin-bottom: 0;">
     <span style= "display: inline-flex; align-items: center; gap: 12px;">
-      <strong><em>Arcynox Github oficial </em></strong>
+      <strong><em>Arcynox Github Org.</em></strong>
     </span>
   </h1>
  
@@ -55,8 +55,5 @@ Sabemos que cada persona llega con intereses diferentes. Por eso, te invitamos a
   <p>
     Hecho con ❤️ en Argentina ·
     <a href="https://arcynox.com.ar">arcynox.com.ar</a>
-  </p>
-  <p>
-    <a href="#-bienvenido-a-arcynox">⬆ Volver arriba</a>
   </p>
 </div>
