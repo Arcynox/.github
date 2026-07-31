@@ -20,7 +20,6 @@ Aquí no solo mostramos lo que hacemos para nuestros clientes, sino que **abrimo
 - Utilizar y contribuir a nuestro **código abierto** (librerías, utilidades, herramientas).
 - Conocer nuestros **proyectos internos** y _side projects_, algunos experimentales, otros listos para producción.
 
----
 
 ## 📦 ¿Qué encontrarás aquí?
 
@@ -32,7 +31,7 @@ Aquí no solo mostramos lo que hacemos para nuestros clientes, sino que **abrimo
 |  **Casos de Éxito** | Resúmenes de proyectos realizados para clientes (con su autorización), mostrando el problema, la solución y los resultados. | 
 |  **Discusiones** | Espacio para debatir sobre arquitectura, tendencias, y dudas técnicas. Abierto a toda la comunidad. |
 
----
+
 
 ## 🧭 Encuentra tu lugar en Arcynox
 
@@ -42,14 +41,14 @@ Sabemos que cada persona llega con intereses diferentes. Por eso, te invitamos a
 - **Colaborador** → Si encuentras un error o quieres sugerir una mejora, abre un _issue_ o envía un _pull request_. Toda ayuda es bienvenida.
 -  **Contribuidor** → Si quieres involucrarte más, participa en las discusiones, propón nuevas guías o ayúdanos a mantener el código abierto. Te invitamos a ser parte del equipo de colaboradores externos.
 
----
+
 
 ## 📬 Contacto y Conexión
 
 - **Para consultas sobre la empresa o servicios:** [arcynox.software@gmail.com](mailto:arcynox.software@gmail.com)
 - **Visita nuestro sitio web:** [arcynox.com.ar](https://arcynox.com.ar)
 
----
+
 
 <div align="center">
   <p>
