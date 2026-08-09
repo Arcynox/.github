@@ -23,7 +23,7 @@ Aquí no solo mostramos lo que hacemos para nuestros clientes, sino que **abrimo
 
 ## 📦 ¿Qué encontrarás aquí?
 
-| - | Descripción | 
+|  | Descripción | 
 | :--- | :--- | 
 |  **Guías y Tutoriales** | Artículos técnicos, _best practices_, y guías paso a paso sobre desarrollo web, automatización y gestión de proyectos. |
 |  **Código Abierto** | Librerías, componentes reutilizables, y herramientas que usamos en nuestros proyectos diarios y que queremos compartir con la comunidad. |
