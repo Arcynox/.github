@@ -15,13 +15,13 @@
 
 Este espacio en GitHub es mucho más que el repositorio de nuestra empresa. **Es el punto de encuentro** entre nuestra experiencia profesional y la comunidad de desarrolladores, estudiantes y curiosos que quieren aprender, compartir y construir.
 
-Aquí no solo mostramos lo que hacemos para nuestros clientes, sino que **abrimos nuestras puertas** para que puedas:
+Aca no solo mostramos lo que hacemos para nuestros clientes, sino que **abrimos nuestras puertas** para que puedas:
 - Explorar **guías propias** sobre temas que dominamos (arquitectura, testing, automatización, etc.).
 - Utilizar y contribuir a nuestro **código abierto** (librerías, utilidades, herramientas).
 - Conocer nuestros **proyectos internos** y _side projects_, algunos experimentales, otros listos para producción.
 
 
-## 📦 ¿Qué encontrarás aquí?
+## 📦 ¿Qué encontras aca?
 
 |  | Descripción | 
 | :--- | :--- | 
