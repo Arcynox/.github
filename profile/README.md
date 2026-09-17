@@ -21,7 +21,7 @@ Aca no solo mostramos lo que hacemos para nuestros clientes, sino que **abrimos 
 - Conocer nuestros **proyectos internos** y _side projects_, algunos experimentales, otros listos para producción.
 
 
-## 📦 ¿Qué encontras aca?
+## ¿Qué encontras aca?
 
 |  | Descripción | 
 | :--- | :--- | 
@@ -33,7 +33,7 @@ Aca no solo mostramos lo que hacemos para nuestros clientes, sino que **abrimos 
 
 
 
-## 🧭 Encuentra tu lugar en Arcynox
+## Encuentra tu lugar en Arcynox
 
 Sabemos que cada persona llega con intereses diferentes. Por eso, te invitamos a encontrar tu rol dentro de nuestra comunidad:
 
@@ -43,7 +43,7 @@ Sabemos que cada persona llega con intereses diferentes. Por eso, te invitamos a
 
 
 
-## 📬 Contacto y Conexión
+## Contacto y Conexión
 
 - **Para consultas sobre la empresa o servicios:** [arcynox.software@gmail.com](mailto:arcynox.software@gmail.com)
 - **Visita nuestro sitio web:** [arcynox.com.ar](https://arcynox.com.ar)
